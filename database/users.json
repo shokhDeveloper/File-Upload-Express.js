@@ -1,0 +1,27 @@
+[
+    {
+        "avtor": "Shohijahon",
+        "fileText": "kungfu panda",
+        "fileName": "kungfupanda.jpg"
+    },
+    {
+        "avtor": "Sardor",
+        "fileText": "Barmoq qaychi uslubi",
+        "fileName": "shifu.jpg"
+    },
+    {
+        "avtor": "leoMessi",
+        "fileText": "shox",
+        "fileName": "20512777.jpg"
+    },
+    {
+        "avtor": "leoMessi",
+        "fileText": "primw",
+        "fileName": "Algorithm Prime Number (is Not a Function).png"
+    },
+    {
+        "avtor": "leoMessi",
+        "fileText": "bank",
+        "fileName": "Bank Algorithm.png"
+    }
+]
